@@ -104,7 +104,7 @@
   <string role="key" value="_name"></string>
   <unicode value="SdA_DIG_4_ESO_12_ME_SIENTO_CIBERSEGURO"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="24"></int>
+  <int value="25"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="46"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -212,7 +212,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="752210"></int>
+                  <int value="752227"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -226,7 +226,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="13_19301_2.17"></unicode>
+                <unicode value="13_19301_2.18"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -237,7 +237,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="portada_DIG_4_12.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpbdTGvc/portada_DIG_4_12.png"></string>
+                  <string value="/tmp/tmpDPpEx0/portada_DIG_4_12.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="475daa750741f09fa8b2fc80783f5115"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -266,7 +266,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="18"></int>
+           <int value="19"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -632,6 +632,8 @@
            <string value=""></string>
            <string role="key" value="_tip"></string>
            <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
            <string role="key" value="_valid"></string>
            <bool value="1"></bool>
            <string role="key" value="class_"></string>
@@ -647,7 +649,7 @@
             <instance class="exe.engine.field.TextAreaField" reference="11">
              <dictionary>
               <string role="key" value="_id"></string>
-              <unicode value="428_2"></unicode>
+              <unicode value="19913_2"></unicode>
               <string role="key" value="_idevice"></string>
               <reference key="10"></reference>
               <string role="key" value="_instruc"></string>
@@ -656,14 +658,11 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
-              <string role="key" value="anchors_linked_from_fields"></string>
-              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Nuestro objetivo aquí será crear una sencilla presentación interactiva con Scratch, a la que se accederá mediante un código QR incrustado en un cartel A3 que se colgará en los tablones del centro, creado con Canva, con consejos útiles sobre Ciberseguridad. Debe quedarte algo así:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/p_ster_ciberseguridad.png&quot; alt=&quot;La imagen muestra la portada del REA con la identificación del curso&quot; title=&quot;Portada&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;525&quot; height=&quot;700&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Seguro que lo mejoras!&lt;/p&gt;
-&lt;p&gt;Lee con atención toda la información que viene a continuación para poder seleccionar la que te servirá para nuestro proyecto.&lt;/p&gt;
-&lt;p&gt;Entra en &lt;a href=&quot;https://edea.juntadeandalucia.es/bancorecursos/file/62e31661-766c-4d6b-9f77-68fd4884bcba/1/COM_2ESO_REA_05_v.01.zip/1_gracias_eres_de_gran_ayuda.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;este enlace&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-NC-SA&quot; style=&quot;width: 1080px; text-align: center;&quot;&gt;&lt;img src=&quot;resources/Cartel_Ciberseguriguia.png&quot; alt=&quot;cartel ciberseguriguía&quot; title=&quot;cartel ciberseguriguía&quot; width=&quot;1080&quot; height=&quot;1080&quot; hspace=&quot;auto&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Imagen original CREADA con IA. J Ramón Dorado&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Cartel Ciberseguriguía&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-NC-SA&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -683,7 +682,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752214"></int>
+                     <int value="752242"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -697,7 +696,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19819_428_2.376"></unicode>
+                   <unicode value="24_19913_2.0"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="13">
                     <dictionary>
@@ -706,11 +705,11 @@
                      <string role="key" value="_package"></string>
                      <reference key="1"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="p_ster_ciberseguridad.png"></string>
+                     <string value="Cartel_Ciberseguriguia.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpbdTGvc/p_ster_ciberseguridad.png"></string>
+                     <string value="/tmp/tmpu6Ss5t.eXe/previews/allyourbase/Cartel_Ciberseguriguia.png"></string>
                      <string role="key" value="checksum"></string>
-                     <string value="6d8e724c21899bdc4658247375d2ef0f"></string>
+                     <string value="490172c0b50a694b3024108c52db70e4"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                      <int value="2"></int>
                      <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -737,7 +736,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="377"></int>
+              <int value="1"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -746,7 +745,7 @@
            <string role="key" value="icon"></string>
            <unicode value=""></unicode>
            <string role="key" value="id"></string>
-           <unicode value="19819"></unicode>
+           <unicode value="24"></unicode>
            <string role="key" value="ideviceCategory"></string>
            <unicode value="Text and Tasks"></unicode>
            <string role="key" value="lastIdevice"></string>
@@ -769,33 +768,6 @@
            <int value="0"></int>
           </dictionary>
          </instance>
-        </list>
-        <string role="key" value="_id"></string>
-        <unicode value="20"></unicode>
-        <string role="key" value="_package"></string>
-        <reference key="1"></reference>
-        <string role="key" value="anchor_fields"></string>
-        <list></list>
-        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-        <int value="2"></int>
-        <string role="key" value="exportType"></string>
-        <string value="website"></string>
-        <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:%C2%BFME%20SIENTO%20CIBERSEGURO%3F:%C2%BFControlas%20las%20redes%3F%20No%20dejes%20que%20te%20controlen"></string>
-        <string role="key" value="parent"></string>
-        <reference key="4"></reference>
-        <string role="key" value="top_anchors_linked_from_fields"></string>
-        <list></list>
-        <string role="key" value="children"></string>
-        <list></list>
-       </dictionary>
-      </instance>
-      <instance class="exe.engine.node.Node" reference="16">
-       <dictionary>
-        <string role="key" value="_title"></string>
-        <unicode value="Hola, ¿necesitas ayuda?"></unicode>
-        <string role="key" value="idevices"></string>
-        <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="14">
           <dictionary>
            <string role="key" value="_title"></string>
@@ -858,9 +830,277 @@
             <instance class="exe.engine.field.TextAreaField" reference="15">
              <dictionary>
               <string role="key" value="_id"></string>
-              <unicode value="112_2"></unicode>
+              <unicode value="428_2"></unicode>
               <string role="key" value="_idevice"></string>
               <reference key="14"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Nuestro objetivo aquí será crear una sencilla presentación interactiva con Scratch, a la que se accederá mediante un código QR incrustado en un cartel A3 que se colgará en los tablones del centro, creado con Canva, con consejos útiles sobre Ciberseguridad. Debe quedarte algo así:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/p_ster_ciberseguridad.png&quot; alt=&quot;La imagen muestra la portada del REA con la identificación del curso&quot; title=&quot;Portada&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;525&quot; height=&quot;700&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Seguro que lo mejoras!&lt;/p&gt;
+&lt;p&gt;Lee con atención toda la información que viene a continuación para poder seleccionar la que te servirá para nuestro proyecto.&lt;/p&gt;
+&lt;p&gt;Entra en &lt;a href=&quot;https://edea.juntadeandalucia.es/bancorecursos/file/62e31661-766c-4d6b-9f77-68fd4884bcba/1/COM_2ESO_REA_05_v.01.zip/1_gracias_eres_de_gran_ayuda.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;este enlace&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-SA&quot; style=&quot;width: 793px; text-align: center;&quot;&gt;&lt;img src=&quot;resources/Cartel_Ciberseguridad.gif&quot; alt=&quot;Cartel Gif&quot; title=&quot;Cartel Gif&quot; width=&quot;793&quot; height=&quot;1122&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;J Ramón Dorado&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Cartel Cciberseguridad Gif&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-SA&quot;&gt;CC BY-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="752230"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="19819_428_2.377"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="16">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="14"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="1"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="p_ster_ciberseguridad.png"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="/tmp/tmpDPpEx0/p_ster_ciberseguridad.png"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="6d8e724c21899bdc4658247375d2ef0f"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="15"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="752243"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="19819_428_2.378"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="17">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="14"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="1"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="Cartel_Ciberseguridad.gif"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="/tmp/tmpu6Ss5t.eXe/previews/allyourbase/Cartel_Ciberseguridad.gif"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="e30caea9c549df38e47a020f7e305a67"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="15"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                </list>
+                <string role="key" value="idevice"></string>
+                <reference key="15"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="379"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="12"></reference>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="19819"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="12"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list>
+            <reference key="16"></reference>
+            <reference key="17"></reference>
+           </list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="_id"></string>
+        <unicode value="20"></unicode>
+        <string role="key" value="_package"></string>
+        <reference key="1"></reference>
+        <string role="key" value="anchor_fields"></string>
+        <list></list>
+        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+        <int value="2"></int>
+        <string role="key" value="exportType"></string>
+        <string value="website"></string>
+        <string role="key" value="last_full_node_path"></string>
+        <string value="exe-node:%C2%BFME%20SIENTO%20CIBERSEGURO%3F:%C2%BFControlas%20las%20redes%3F%20No%20dejes%20que%20te%20controlen"></string>
+        <string role="key" value="parent"></string>
+        <reference key="4"></reference>
+        <string role="key" value="top_anchors_linked_from_fields"></string>
+        <list></list>
+        <string role="key" value="children"></string>
+        <list></list>
+       </dictionary>
+      </instance>
+      <instance class="exe.engine.node.Node" reference="20">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value="Hola, ¿necesitas ayuda?"></unicode>
+        <string role="key" value="idevices"></string>
+        <list>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="18">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="0"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="19">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="112_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="18"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -907,7 +1147,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752212"></int>
+                     <int value="752228"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -921,18 +1161,18 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19912_112_2.25"></unicode>
+                   <unicode value="19912_112_2.27"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="17">
+                   <instance class="exe.engine.resource.Resource" reference="21">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="14"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="1"></reference>
                      <string role="key" value="_storageName"></string>
                      <string value="ai-generated-7770474_1280.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpbdTGvc/ai-generated-7770474_1280.png"></string>
+                     <string value="/tmp/tmpDPpEx0/ai-generated-7770474_1280.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="6e666f4826ec526bbcccd94fb19ee6cb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -944,7 +1184,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="15"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -959,7 +1199,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752213"></int>
+                     <int value="752229"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -973,18 +1213,18 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19912_112_2.26"></unicode>
+                   <unicode value="19912_112_2.28"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="18">
+                   <instance class="exe.engine.resource.Resource" reference="22">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="14"></reference>
+                     <reference key="18"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="1"></reference>
                      <string role="key" value="_storageName"></string>
                      <string value="customer-service-7325332_640.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpbdTGvc/customer-service-7325332_640.png"></string>
+                     <string value="/tmp/tmpDPpEx0/customer-service-7325332_640.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="188afdc28d8789d772c67f759ec818fd"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -996,7 +1236,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="15"></reference>
+                   <reference key="19"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1007,15 +1247,15 @@
                  </instance>
                 </list>
                 <string role="key" value="idevice"></string>
-                <reference key="15"></reference>
+                <reference key="19"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="27"></int>
+              <int value="29"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="16"></reference>
+              <reference key="20"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1032,15 +1272,15 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="16"></reference>
+           <reference key="20"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="17"></reference>
-            <reference key="18"></reference>
+            <reference key="21"></reference>
+            <reference key="22"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
@@ -1065,13 +1305,13 @@
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="21">
+         <instance class="exe.engine.node.Node" reference="25">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="¿Qué vamos a hacer?"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="19">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="23">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -1130,12 +1370,12 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="20">
+               <instance class="exe.engine.field.TextAreaField" reference="24">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="112_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="19"></reference>
+                 <reference key="23"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -1215,7 +1455,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="752215"></int>
+                        <int value="752231"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1229,18 +1469,18 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="19820_112_2.348"></unicode>
+                      <unicode value="19820_112_2.352"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="22">
+                      <instance class="exe.engine.resource.Resource" reference="26">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="19"></reference>
+                        <reference key="23"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="1"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="chatbot_icon.svg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpbdTGvc/chatbot_icon.svg"></string>
+                        <string value="/tmp/tmpDPpEx0/chatbot_icon.svg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="3aa5adfedab6694c79c925386311775f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1252,7 +1492,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="20"></reference>
+                      <reference key="24"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1267,7 +1507,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="752219"></int>
+                        <int value="752236"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1281,18 +1521,18 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="19820_112_2.349"></unicode>
+                      <unicode value="19820_112_2.353"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="23">
+                      <instance class="exe.engine.resource.Resource" reference="27">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="19"></reference>
+                        <reference key="23"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="1"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="AlanTuring_2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpbdTGvc/AlanTuring_2.png"></string>
+                        <string value="/tmp/tmpDPpEx0/AlanTuring_2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="66223e51a1d942fe0b4eee190ca0e3f7"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1304,7 +1544,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="20"></reference>
+                      <reference key="24"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1319,7 +1559,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="752222"></int>
+                        <int value="752239"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1333,18 +1573,18 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="19820_112_2.350"></unicode>
+                      <unicode value="19820_112_2.354"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="24">
+                      <instance class="exe.engine.resource.Resource" reference="28">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="19"></reference>
+                        <reference key="23"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="1"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Cerebro_artificial.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpbdTGvc/Cerebro_artificial.png"></string>
+                        <string value="/tmp/tmpDPpEx0/Cerebro_artificial.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4b84154b492d7ff6b68dc5e6a04b4aea"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1356,7 +1596,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="20"></reference>
+                      <reference key="24"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1371,7 +1611,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="752224"></int>
+                        <int value="752241"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1385,18 +1625,18 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="19820_112_2.351"></unicode>
+                      <unicode value="19820_112_2.355"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="25">
+                      <instance class="exe.engine.resource.Resource" reference="29">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="19"></reference>
+                        <reference key="23"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="1"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="aaa.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpbdTGvc/aaa.png"></string>
+                        <string value="/tmp/tmpDPpEx0/aaa.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="a15ada3169fb802c02f5c7c192334a32"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1408,7 +1648,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="20"></reference>
+                      <reference key="24"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1419,15 +1659,15 @@
                     </instance>
                    </list>
                    <string role="key" value="idevice"></string>
-                   <reference key="20"></reference>
+                   <reference key="24"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="352"></int>
+                 <int value="356"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="21"></reference>
+                 <reference key="25"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -1444,23 +1684,23 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="21"></reference>
+              <reference key="25"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="22"></reference>
-               <reference key="23"></reference>
-               <reference key="24"></reference>
-               <reference key="25"></reference>
+               <reference key="26"></reference>
+               <reference key="27"></reference>
+               <reference key="28"></reference>
+               <reference key="29"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="26">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="30">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="1. Nuestro Chatbot te puede ayudar"></unicode>
@@ -1519,12 +1759,12 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="27">
+               <instance class="exe.engine.field.TextAreaField" reference="31">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="112_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="26"></reference>
+                 <reference key="30"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -1572,7 +1812,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="752216"></int>
+                        <int value="752232"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1586,18 +1826,18 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="19821_112_2.249"></unicode>
+                      <unicode value="19821_112_2.252"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="28">
+                      <instance class="exe.engine.resource.Resource" reference="32">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="26"></reference>
+                        <reference key="30"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="1"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="chatbot_icon.svg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpbdTGvc/chatbot_icon.svg"></string>
+                        <string value="/tmp/tmpDPpEx0/chatbot_icon.svg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="3aa5adfedab6694c79c925386311775f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1609,7 +1849,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="27"></reference>
+                      <reference key="31"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1624,7 +1864,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="752218"></int>
+                        <int value="752235"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1638,18 +1878,18 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="19821_112_2.250"></unicode>
+                      <unicode value="19821_112_2.253"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="29">
+                      <instance class="exe.engine.resource.Resource" reference="33">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="26"></reference>
+                        <reference key="30"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="1"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="retor_adultos_sin_bocadillo.gif"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpbdTGvc/retor_adultos_sin_bocadillo.gif"></string>
+                        <string value="/tmp/tmpDPpEx0/retor_adultos_sin_bocadillo.gif"></string>
                         <string role="key" value="checksum"></string>
                         <string value="630c38faceb22d99f6c96ab1c06f1b80"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1661,7 +1901,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="27"></reference>
+                      <reference key="31"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1676,7 +1916,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="752223"></int>
+                        <int value="752240"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1690,18 +1930,18 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="19821_112_2.251"></unicode>
+                      <unicode value="19821_112_2.254"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="30">
+                      <instance class="exe.engine.resource.Resource" reference="34">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="26"></reference>
+                        <reference key="30"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="1"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Cerebro_artificial.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpbdTGvc/Cerebro_artificial.png"></string>
+                        <string value="/tmp/tmpDPpEx0/Cerebro_artificial.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4b84154b492d7ff6b68dc5e6a04b4aea"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1713,7 +1953,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="27"></reference>
+                      <reference key="31"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -1724,15 +1964,15 @@
                     </instance>
                    </list>
                    <string role="key" value="idevice"></string>
-                   <reference key="27"></reference>
+                   <reference key="31"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="252"></int>
+                 <int value="255"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="21"></reference>
+                 <reference key="25"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -1749,22 +1989,22 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="21"></reference>
+              <reference key="25"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="28"></reference>
-               <reference key="29"></reference>
-               <reference key="30"></reference>
+               <reference key="32"></reference>
+               <reference key="33"></reference>
+               <reference key="34"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="31">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="35">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="2. ¿Necesitas un corte de pelo?"></unicode>
@@ -1823,12 +2063,12 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="32">
+               <instance class="exe.engine.field.TextAreaField" reference="36">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="112_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="31"></reference>
+                 <reference key="35"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -1855,7 +2095,7 @@
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="32"></reference>
+                   <reference key="36"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -1863,7 +2103,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="21"></reference>
+                 <reference key="25"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -1880,7 +2120,7 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="21"></reference>
+              <reference key="25"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -1891,7 +2131,7 @@
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="33">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="37">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="3. Nos preguntamos..."></unicode>
@@ -1950,12 +2190,12 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="34">
+               <instance class="exe.engine.field.TextAreaField" reference="38">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="113_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="33"></reference>
+                 <reference key="37"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -1986,7 +2226,7 @@
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="34"></reference>
+                   <reference key="38"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -1994,7 +2234,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="21"></reference>
+                 <reference key="25"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2011,7 +2251,7 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="21"></reference>
+              <reference key="25"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -2022,7 +2262,7 @@
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="35">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="39">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="4. ¿Qué vamos a aprender?"></unicode>
@@ -2081,12 +2321,12 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="36">
+               <instance class="exe.engine.field.TextAreaField" reference="40">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="113_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="35"></reference>
+                 <reference key="39"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -2136,7 +2376,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="752209"></int>
+                        <int value="752226"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2150,18 +2390,18 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="19824_113_2.159"></unicode>
+                      <unicode value="19824_113_2.161"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="37">
+                      <instance class="exe.engine.resource.Resource" reference="41">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="35"></reference>
+                        <reference key="39"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="1"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Alan_Turing_Aged_16.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpbdTGvc/Alan_Turing_Aged_16.jpg"></string>
+                        <string value="/tmp/tmpDPpEx0/Alan_Turing_Aged_16.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="921468ce131e7ae41f47271c2803a38b"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2173,7 +2413,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="36"></reference>
+                      <reference key="40"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -2188,7 +2428,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="752220"></int>
+                        <int value="752237"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2202,18 +2442,18 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="19824_113_2.160"></unicode>
+                      <unicode value="19824_113_2.162"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="38">
+                      <instance class="exe.engine.resource.Resource" reference="42">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="35"></reference>
+                        <reference key="39"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="1"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="dialogo_SF.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpbdTGvc/dialogo_SF.png"></string>
+                        <string value="/tmp/tmpDPpEx0/dialogo_SF.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="3d015ebf9b32b72a48988fae4e73f9c9"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2225,7 +2465,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="36"></reference>
+                      <reference key="40"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -2236,15 +2476,15 @@
                     </instance>
                    </list>
                    <string role="key" value="idevice"></string>
-                   <reference key="36"></reference>
+                   <reference key="40"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="161"></int>
+                 <int value="163"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="21"></reference>
+                 <reference key="25"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2261,21 +2501,21 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="21"></reference>
+              <reference key="25"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="37"></reference>
-               <reference key="38"></reference>
+               <reference key="41"></reference>
+               <reference key="42"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="39">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="43">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Vamos al lío!"></unicode>
@@ -2336,12 +2576,12 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="40">
+               <instance class="exe.engine.field.TextAreaField" reference="44">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="19915_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="39"></reference>
+                 <reference key="43"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -2366,7 +2606,7 @@
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="40"></reference>
+                   <reference key="44"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -2374,7 +2614,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="21"></reference>
+                 <reference key="25"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2391,7 +2631,7 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="21"></reference>
+              <reference key="25"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -2416,20 +2656,20 @@
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:%C2%BFME%20SIENTO%20CIBERSEGURO%3F:Hola%2C%20%C2%BFnecesitas%20ayuda%3F:%C2%BFQu%C3%A9%20vamos%20a%20hacer%3F"></string>
            <string role="key" value="parent"></string>
-           <reference key="16"></reference>
+           <reference key="20"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="43">
+         <instance class="exe.engine.node.Node" reference="47">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Por si te has perdido algo"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="41">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="45">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -2490,12 +2730,12 @@
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="42">
+               <instance class="exe.engine.field.TextAreaField" reference="46">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="19913_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="41"></reference>
+                 <reference key="45"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -2522,7 +2762,7 @@
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="42"></reference>
+                   <reference key="46"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -2530,7 +2770,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="43"></reference>
+                 <reference key="47"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2547,7 +2787,7 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="43"></reference>
+              <reference key="47"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -2558,7 +2798,7 @@
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="44">
+            <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="48">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Inspiración"></unicode>
@@ -2578,12 +2818,12 @@
               <int value="2"></int>
               <string role="key" value="fileAttachmentFields"></string>
               <list>
-               <instance class="exe.engine.extendedfieldengine.FileField" reference="45">
+               <instance class="exe.engine.extendedfieldengine.FileField" reference="49">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <int value="83"></int>
                  <string role="key" value="_idevice"></string>
-                 <reference key="44"></reference>
+                 <reference key="48"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value="File Field Help"></string>
                  <string role="key" value="_name"></string>
@@ -2600,7 +2840,7 @@
                    <string role="key" value="_id"></string>
                    <int value="84"></int>
                    <string role="key" value="_idevice"></string>
-                   <reference key="45"></reference>
+                   <reference key="49"></reference>
                    <string role="key" value="_instruc"></string>
                    <string value=""></string>
                    <string role="key" value="_name"></string>
@@ -2614,16 +2854,16 @@
                  <string role="key" value="fileInstruc"></string>
                  <unicode value="Subir un fichero. Elimine los caracteres especiales del nombre del fichero y la ruta del archivo."></unicode>
                  <string role="key" value="fileResource"></string>
-                 <instance class="exe.engine.resource.Resource" reference="47">
+                 <instance class="exe.engine.resource.Resource" reference="51">
                   <dictionary>
                    <string role="key" value="_idevice"></string>
-                   <reference key="44"></reference>
+                   <reference key="48"></reference>
                    <string role="key" value="_package"></string>
                    <reference key="1"></reference>
                    <string role="key" value="_storageName"></string>
                    <string value="CHATBOTS.zip"></string>
                    <string role="key" value="_userName"></string>
-                   <string value="/tmp/tmpbdTGvc/CHATBOTS.zip"></string>
+                   <string value="/tmp/tmpDPpEx0/CHATBOTS.zip"></string>
                    <string role="key" value="checksum"></string>
                    <string value="62ffd9bc22f52daf52840c8763af6c68"></string>
                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2644,12 +2884,12 @@
               <string role="key" value="id"></string>
               <unicode value="22"></unicode>
               <string role="key" value="introHTML"></string>
-              <instance class="exe.engine.field.TextAreaField" reference="46">
+              <instance class="exe.engine.field.TextAreaField" reference="50">
                <dictionary>
                 <string role="key" value="_id"></string>
                 <int value="82"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="44"></reference>
+                <reference key="48"></reference>
                 <string role="key" value="_instruc"></string>
                 <string value="Instructions"></string>
                 <string role="key" value="_name"></string>
@@ -2676,7 +2916,7 @@
                   <string role="key" value=".listitems"></string>
                   <list></list>
                   <string role="key" value="idevice"></string>
-                  <reference key="46"></reference>
+                  <reference key="50"></reference>
                  </dictionary>
                 </instance>
                 <string role="key" value="intlinks_to_anchors"></string>
@@ -2684,7 +2924,7 @@
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="43"></reference>
+                <reference key="47"></reference>
                </dictionary>
               </instance>
               <string role="key" value="lastIdevice"></string>
@@ -2694,14 +2934,14 @@
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="43"></reference>
+              <reference key="47"></reference>
               <string role="key" value="showDesc"></string>
               <instance class="exe.engine.extendedfieldengine.ChoiceField">
                <dictionary>
                 <string role="key" value="_id"></string>
                 <int value="81"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="44"></reference>
+                <reference key="48"></reference>
                 <string role="key" value="_instruc"></string>
                 <string value="Show Description"></string>
                 <string role="key" value="_name"></string>
@@ -2731,7 +2971,7 @@
               <bool value="0"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="47"></reference>
+               <reference key="51"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
@@ -2751,7 +2991,7 @@
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:%C2%BFME%20SIENTO%20CIBERSEGURO%3F:Hola%2C%20%C2%BFnecesitas%20ayuda%3F:Por%20si%20te%20has%20perdido%20algo"></string>
            <string role="key" value="parent"></string>
-           <reference key="16"></reference>
+           <reference key="20"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -2761,13 +3001,13 @@
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="50">
+      <instance class="exe.engine.node.Node" reference="54">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Tareas finales. Check in"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="48">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="52">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Producto Final y Evaluación"></unicode>
@@ -2828,12 +3068,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="49">
+            <instance class="exe.engine.field.TextAreaField" reference="53">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="19293_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="48"></reference>
+              <reference key="52"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -2873,7 +3113,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752221"></int>
+                     <int value="752238"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2887,18 +3127,18 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19315_19293_2.11"></unicode>
+                   <unicode value="19315_19293_2.12"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="51">
+                   <instance class="exe.engine.resource.Resource" reference="55">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="48"></reference>
+                     <reference key="52"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="1"></reference>
                      <string role="key" value="_storageName"></string>
                      <string value="Rubrica_Diario.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpbdTGvc/Rubrica_Diario.png"></string>
+                     <string value="/tmp/tmpDPpEx0/Rubrica_Diario.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8e9a08c43e4054a811013238fe03c03f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2910,7 +3150,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="49"></reference>
+                   <reference key="53"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -2921,15 +3161,15 @@
                  </instance>
                 </list>
                 <string role="key" value="idevice"></string>
-                <reference key="49"></reference>
+                <reference key="53"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="12"></int>
+              <int value="13"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="50"></reference>
+              <reference key="54"></reference>
              </dictionary>
             </instance>
            </list>
@@ -2946,20 +3186,20 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="50"></reference>
+           <reference key="54"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="51"></reference>
+            <reference key="55"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="52">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="56">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="RÚBRICA FINAL CHATBOT"></unicode>
@@ -3020,12 +3260,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="53">
+            <instance class="exe.engine.field.TextAreaField" reference="57">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="19915_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="52"></reference>
+              <reference key="56"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3055,7 +3295,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752217"></int>
+                     <int value="752234"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3069,18 +3309,18 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19_19915_2.3"></unicode>
+                   <unicode value="19_19915_2.4"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="54">
+                   <instance class="exe.engine.resource.Resource" reference="58">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="52"></reference>
+                     <reference key="56"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="1"></reference>
                      <string role="key" value="_storageName"></string>
                      <string value="Rubrica_Chatbot_con_IA_sobre_Ciberseguridad.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpbdTGvc/Rubrica_Chatbot_con_IA_sobre_Ciberseguridad.pdf"></string>
+                     <string value="/tmp/tmpDPpEx0/Rubrica_Chatbot_con_IA_sobre_Ciberseguridad.pdf"></string>
                      <string role="key" value="checksum"></string>
                      <string value="97236f9610e1d444e8443f5be0c00144"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3092,7 +3332,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="53"></reference>
+                   <reference key="57"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3103,15 +3343,15 @@
                  </instance>
                 </list>
                 <string role="key" value="idevice"></string>
-                <reference key="53"></reference>
+                <reference key="57"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="4"></int>
+              <int value="5"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="50"></reference>
+              <reference key="54"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3128,14 +3368,14 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="50"></reference>
+           <reference key="54"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="54"></reference>
+            <reference key="58"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
@@ -3162,13 +3402,13 @@
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="57">
+      <instance class="exe.engine.node.Node" reference="61">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="GUÍA DIDÁCTICA"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="55">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="59">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Descripción General"></unicode>
@@ -3229,12 +3469,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="56">
+            <instance class="exe.engine.field.TextAreaField" reference="60">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="19296_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="55"></reference>
+              <reference key="59"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3272,7 +3512,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752225"></int>
+                     <int value="752233"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3286,18 +3526,18 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="10_19296_2.20"></unicode>
+                   <unicode value="10_19296_2.21"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="58">
+                   <instance class="exe.engine.resource.Resource" reference="62">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="55"></reference>
+                     <reference key="59"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="1"></reference>
                      <string role="key" value="_storageName"></string>
                      <string value="CANVA_DIG_4_REA_12.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpdY9UcT.eXe/previews/allyourbase/CANVA_DIG_4_REA_12.png"></string>
+                     <string value="/tmp/tmpDPpEx0/CANVA_DIG_4_REA_12.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="2650615b1db9f957609f0a889bee4cff"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3309,7 +3549,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="56"></reference>
+                   <reference key="60"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3320,15 +3560,15 @@
                  </instance>
                 </list>
                 <string role="key" value="idevice"></string>
-                <reference key="56"></reference>
+                <reference key="60"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="21"></int>
+              <int value="22"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="57"></reference>
+              <reference key="61"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3345,20 +3585,20 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="57"></reference>
+           <reference key="61"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="58"></reference>
+            <reference key="62"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="59">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="63">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="itinerario y Temporalización"></unicode>
@@ -3419,12 +3659,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="60">
+            <instance class="exe.engine.field.TextAreaField" reference="64">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="19297_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="59"></reference>
+              <reference key="63"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3494,7 +3734,7 @@
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="60"></reference>
+                <reference key="64"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -3502,7 +3742,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="57"></reference>
+              <reference key="61"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3519,7 +3759,7 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="57"></reference>
+           <reference key="61"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -3530,7 +3770,7 @@
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="61">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="65">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Evaluación y Referencias Curriculares"></unicode>
@@ -3591,12 +3831,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="62">
+            <instance class="exe.engine.field.TextAreaField" reference="66">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="19298_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="61"></reference>
+              <reference key="65"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3636,7 +3876,7 @@
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="62"></reference>
+                <reference key="66"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -3644,7 +3884,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="57"></reference>
+              <reference key="61"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3661,7 +3901,7 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="57"></reference>
+           <reference key="61"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -3693,13 +3933,13 @@
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="65">
+      <instance class="exe.engine.node.Node" reference="69">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="FICHA TÉCNICA"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="63">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="67">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -3760,12 +4000,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="64">
+            <instance class="exe.engine.field.TextAreaField" reference="68">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="650_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="63"></reference>
+              <reference key="67"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3810,7 +4050,7 @@
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="64"></reference>
+                <reference key="68"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -3818,7 +4058,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="65"></reference>
+              <reference key="69"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3835,7 +4075,7 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="65"></reference>
+           <reference key="69"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -3846,7 +4086,7 @@
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="66">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="70">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Información sobre licencia y uso"></unicode>
@@ -3907,12 +4147,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="67">
+            <instance class="exe.engine.field.TextAreaField" reference="71">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="651_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="66"></reference>
+              <reference key="70"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3941,7 +4181,7 @@
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="67"></reference>
+                <reference key="71"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -3949,7 +4189,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="65"></reference>
+              <reference key="69"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3966,7 +4206,7 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="65"></reference>
+           <reference key="69"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -4002,19 +4242,19 @@
     </dictionary>
    </instance>
    <unicode role="key" value="18"></unicode>
-   <reference key="50"></reference>
+   <reference key="54"></reference>
    <unicode role="key" value="20"></unicode>
    <reference key="12"></reference>
    <unicode role="key" value="31"></unicode>
-   <reference key="16"></reference>
+   <reference key="20"></reference>
    <unicode role="key" value="32"></unicode>
-   <reference key="21"></reference>
+   <reference key="25"></reference>
    <unicode role="key" value="4"></unicode>
-   <reference key="57"></reference>
+   <reference key="61"></reference>
    <unicode role="key" value="45"></unicode>
-   <reference key="43"></reference>
+   <reference key="47"></reference>
    <unicode role="key" value="6"></unicode>
-   <reference key="65"></reference>
+   <reference key="69"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -4027,7 +4267,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="65"></reference>
+  <reference key="12"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -5271,65 +5511,73 @@
   <dictionary>
    <string role="key" value="188afdc28d8789d772c67f759ec818fd"></string>
    <list>
-    <reference key="18"></reference>
+    <reference key="22"></reference>
    </list>
    <string role="key" value="2650615b1db9f957609f0a889bee4cff"></string>
    <list>
-    <reference key="58"></reference>
+    <reference key="62"></reference>
    </list>
    <string role="key" value="3aa5adfedab6694c79c925386311775f"></string>
    <list>
-    <reference key="22"></reference>
-    <reference key="28"></reference>
+    <reference key="26"></reference>
+    <reference key="32"></reference>
    </list>
    <string role="key" value="3d015ebf9b32b72a48988fae4e73f9c9"></string>
    <list>
-    <reference key="38"></reference>
+    <reference key="42"></reference>
    </list>
    <string role="key" value="475daa750741f09fa8b2fc80783f5115"></string>
    <list>
     <reference key="5"></reference>
    </list>
-   <string role="key" value="4b84154b492d7ff6b68dc5e6a04b4aea"></string>
-   <list>
-    <reference key="24"></reference>
-    <reference key="30"></reference>
-   </list>
-   <string role="key" value="62ffd9bc22f52daf52840c8763af6c68"></string>
-   <list>
-    <reference key="47"></reference>
-   </list>
-   <string role="key" value="630c38faceb22d99f6c96ab1c06f1b80"></string>
-   <list>
-    <reference key="29"></reference>
-   </list>
-   <string role="key" value="66223e51a1d942fe0b4eee190ca0e3f7"></string>
-   <list>
-    <reference key="23"></reference>
-   </list>
-   <string role="key" value="6d8e724c21899bdc4658247375d2ef0f"></string>
+   <string role="key" value="490172c0b50a694b3024108c52db70e4"></string>
    <list>
     <reference key="13"></reference>
    </list>
-   <string role="key" value="6e666f4826ec526bbcccd94fb19ee6cb"></string>
+   <string role="key" value="4b84154b492d7ff6b68dc5e6a04b4aea"></string>
    <list>
-    <reference key="17"></reference>
+    <reference key="28"></reference>
+    <reference key="34"></reference>
    </list>
-   <string role="key" value="8e9a08c43e4054a811013238fe03c03f"></string>
+   <string role="key" value="62ffd9bc22f52daf52840c8763af6c68"></string>
    <list>
     <reference key="51"></reference>
    </list>
+   <string role="key" value="630c38faceb22d99f6c96ab1c06f1b80"></string>
+   <list>
+    <reference key="33"></reference>
+   </list>
+   <string role="key" value="66223e51a1d942fe0b4eee190ca0e3f7"></string>
+   <list>
+    <reference key="27"></reference>
+   </list>
+   <string role="key" value="6d8e724c21899bdc4658247375d2ef0f"></string>
+   <list>
+    <reference key="16"></reference>
+   </list>
+   <string role="key" value="6e666f4826ec526bbcccd94fb19ee6cb"></string>
+   <list>
+    <reference key="21"></reference>
+   </list>
+   <string role="key" value="8e9a08c43e4054a811013238fe03c03f"></string>
+   <list>
+    <reference key="55"></reference>
+   </list>
    <string role="key" value="921468ce131e7ae41f47271c2803a38b"></string>
    <list>
-    <reference key="37"></reference>
+    <reference key="41"></reference>
    </list>
    <string role="key" value="97236f9610e1d444e8443f5be0c00144"></string>
    <list>
-    <reference key="54"></reference>
+    <reference key="58"></reference>
    </list>
    <string role="key" value="a15ada3169fb802c02f5c7c192334a32"></string>
    <list>
-    <reference key="25"></reference>
+    <reference key="29"></reference>
+   </list>
+   <string role="key" value="e30caea9c549df38e47a020f7e305a67"></string>
+   <list>
+    <reference key="17"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
